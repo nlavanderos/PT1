@@ -1,4 +1,4 @@
-// PCH for C:\Users\nicolas\Desktop\PT1\Plugins\VictoryBPLibrary\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+// PCH for D:\Documentos\Unreal Projects\PT1\Plugins\VictoryBPLibrary\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -301,4 +301,4 @@
 #define WITH_CUSTOM_SQ_STRUCTURE 0
 #define WITH_IMMEDIATE_PHYSX 0
 #define APEXDESTRUCTION_API DLLIMPORT
-#include "C:/Users/nicolas/Desktop/PT1/Plugins/VictoryBPLibrary/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"
+#include "D:/Documentos/Unreal Projects/PT1/Plugins/VictoryBPLibrary/Source/VictoryBPLibrary/Private/VictoryBPLibraryPrivatePCH.h"
